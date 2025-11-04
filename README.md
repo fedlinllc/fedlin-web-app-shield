@@ -72,7 +72,7 @@ FEDLIN Cloudflare Security is a comprehensive service that implements **enterpri
 
 ### For Organizations
 
-1. **Get Connected** - [Contact us](mailto:security@fedlin.com?subject=Cloudflare%20Security%20Service%20Inquiry) to discuss your security needs
+1. **Get Connected** - [Contact us](mailto:info@fedlin.com?subject=Cloudflare%20Security%20Service%20Inquiry) to discuss your security needs
 2. **Discovery Call** - 30-minute consultation to understand your requirements
 3. **Receive Proposal** - Custom migration plan with timeline
 4. **Approve & Execute** - We handle everything with zero downtime
@@ -361,9 +361,9 @@ See our [Security Features](#-security-features) section for detailed protection
 
 ## Contact
 
-**Get Connected**: [security@fedlin.com](mailto:security@fedlin.com)  
-**Website**: [https://fedlin.com/services/cloudflare-security](https://fedlin.com/services/cloudflare-security)  
-**Schedule a Consultation**: [Book a consultation](mailto:security@fedlin.com?subject=Cloudflare%20Security%20Consultation)
+**Get Connected**: [info@fedlin.com](mailto:info@fedlin.com)  
+**Website**: [https://fedlin.com](https://fedlin.com)  
+**Schedule a Consultation**: [Book a consultation](mailto:info@fedlin.com?subject=Cloudflare%20Security%20Consultation)
 
 ---
 
@@ -377,5 +377,5 @@ See our [Security Features](#-security-features) section for detailed protection
 
 **FEDLIN** – Security Solutions Architecture · Vulnerability Management · Compliance Automation
 
-[Website](https://fedlin.com) · [Services](https://fedlin.com/services) · [Contact](mailto:security@fedlin.com)
+[Website](https://fedlin.com) · [Services](https://fedlin.com/services) · [Contact](mailto:info@fedlin.com)
 
