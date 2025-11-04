@@ -10,7 +10,7 @@
 
 **Transform your domain security from F to A+ in hours, not weeks**
 
-[Get Started](#quick-start) • [Service Details](#whats-included) • [Security Features](#security-features) • [Contact Us](#contact)
+[Get Started](#quick-start) • [Service Details](#whats-included) • [Security Features](#security-features) • [Contact](#contact)
 
 ---
 
@@ -72,8 +72,8 @@ FEDLIN Cloudflare Security is a comprehensive service that implements **enterpri
 
 ### For Organizations
 
-1. **Submit Service Request** - [Complete our intake form](https://github.com/fedlinllc/fedlin-cloudflare-security-deployment/issues/new?template=service_request.md)
-2. **Discovery Call** - 30-minute consultation to understand your needs
+1. **Get Connected** - [Contact us](mailto:security@fedlin.com?subject=Cloudflare%20Security%20Service%20Inquiry) to discuss your security needs
+2. **Discovery Call** - 30-minute consultation to understand your requirements
 3. **Receive Proposal** - Custom migration plan with timeline
 4. **Approve & Execute** - We handle everything with zero downtime
 5. **Get Trained** - Complete documentation and ongoing support
@@ -361,10 +361,9 @@ See our [Security Features](#-security-features) section for detailed protection
 
 ## Contact
 
-**Service Request**: [Submit Intake Form](https://github.com/fedlinllc/fedlin-cloudflare-security-deployment/issues/new?template=service_request.md)  
-**Email**: [security@fedlin.com](mailto:security@fedlin.com)  
+**Get Connected**: [security@fedlin.com](mailto:security@fedlin.com)  
 **Website**: [https://fedlin.com/services/cloudflare-security](https://fedlin.com/services/cloudflare-security)  
-**Schedule**: [Book a consultation](mailto:security@fedlin.com?subject=Cloudflare%20Security%20Consultation)
+**Schedule a Consultation**: [Book a consultation](mailto:security@fedlin.com?subject=Cloudflare%20Security%20Consultation)
 
 ---
 
