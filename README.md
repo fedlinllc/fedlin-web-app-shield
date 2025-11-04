@@ -12,7 +12,7 @@
 
 **Transform your domain security from F to A+ in hours, not weeks**
 
-[Get Started](#-getting-started) • [Service Details](#-whats-included) • [Pricing](#-pricing) • [Contact Us](#-contact)
+[Get Started](#-getting-started) • [Service Details](#-whats-included) • [Contact Us](#-contact)
 
 </div>
 
@@ -59,7 +59,7 @@ FEDLIN Cloudflare Security is a comprehensive service that implements enterprise
 
 1. **📝 Submit Service Request** - [Complete our intake form](https://github.com/fedlinllc/fedlin-cloudflare-security-deployment/issues/new?template=service_request.md)
 2. **📞 Discovery Call** - 30-minute consultation to understand your needs
-3. **📋 Receive Proposal** - Custom migration plan with timeline and pricing
+3. **📋 Receive Proposal** - Custom migration plan with timeline
 4. **✅ Approve & Execute** - We handle everything with zero downtime
 5. **📚 Get Trained** - Complete documentation and ongoing support
 
@@ -113,56 +113,6 @@ cd fedlin-cloudflare-security-deployment
 - ✅ Quarterly security audits
 - ✅ Incident response
 - ✅ Continuous optimization
-
----
-
-## 💰 Pricing
-
-### Tier 1: Single Domain Migration
-**$500 one-time** | *Perfect for small businesses*
-
-- Complete migration from any DNS provider
-- Security headers implementation
-- SSL/TLS optimization
-- 30 days post-migration support
-
-### Tier 2: Small Portfolio (5-10 domains)
-**$2,000 one-time** | *Ideal for growing businesses*
-
-- Everything in Tier 1
-- Batch migration management
-- Consolidated security policies
-- 90 days post-migration support
-- Training session included
-
-### Tier 3: Medium Portfolio (10-25 domains)
-**$4,500 one-time** | *Designed for established organizations*
-
-- Everything in Tier 2
-- Custom security policies per domain
-- Advanced WAF configuration
-- 6 months post-migration support
-- Quarterly security reviews
-
-### Tier 4: Enterprise Portfolio (25+ domains)
-**Custom pricing** | *Tailored for large organizations*
-
-- Everything in Tier 3
-- Dedicated security engineer
-- 24/7 monitoring
-- Annual security audits
-- Compliance reporting
-- SLA guarantees
-
-### Add-Ons
-
-| Service | Pricing |
-|---------|---------|
-| Monthly Management | $200/month per domain |
-| SOC 2 Compliance Package | $3,000 |
-| Advanced Bot Protection | $500 setup + $100/month |
-| Custom WAF Rules | $1,000 per ruleset |
-| Emergency Response Retainer | $500/month |
 
 ---
 
@@ -224,8 +174,8 @@ Full documentation and knowledge transfer. Complete audit trail of all changes.
 ### ✅ Government Grade
 Experience with federal requirements. SOC 2, NIST, HIPAA ready.
 
-### ✅ 30-Day Money-Back Guarantee
-If objectives aren't met, we'll refund your investment.
+### ✅ Satisfaction Guarantee
+We guarantee your security objectives will be met.
 
 ---
 
