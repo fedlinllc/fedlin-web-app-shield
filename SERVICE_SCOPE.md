@@ -1,4 +1,4 @@
-# Service Scope — Cloudflare Security Baseline
+# Service Scope — Web App Shield
 
 ## In scope
 - **DNS & TLS:** Cloudflare DNS with DNSSEC, TLS 1.3, HSTS, modern security headers (CSP, Referrer-Policy, etc.)

@@ -1,4 +1,4 @@
-# FEDLIN – Cloudflare Security Baseline
+# FEDLIN – Web App Shield
 
 [![Terraform](https://img.shields.io/badge/IaC-Terraform_5.0+-623CE4?logo=terraform)](https://www.terraform.io/)
 [![Cloudflare](https://img.shields.io/badge/Cloud-Cloudflare-F38020?logo=cloudflare)](https://www.cloudflare.com/)
@@ -11,7 +11,7 @@
 
 Harden the boundary with Cloudflare: managed WAF, DDoS mitigation, bot/rate controls, secure DNS/TLS/headers, origin lockdown via Tunnel/mTLS, and audit-ready evidence—delivered as Terraform + OIDC with change control baked in.
 
-> Replaces our former "WordPress Site Security Hardening." WordPress hardening is now an optional add-on under this baseline.
+> Replaces our former "WordPress Site Security Hardening." WordPress hardening is now an optional add-on under Web App Shield.
 
 [📧 Contact](mailto:info@fedlin.com) · [📞 Book Consultation](https://calendar.app.google/7z8eAZPvrW82jtxk6) · [🌐 fedlin.com](https://www.fedlin.com)
 
@@ -225,10 +225,10 @@ docs/
 ## 🤝 Engagement Models
 
 **Direct Deployment**  
-Complete security baseline setup for your domains with documentation and training.
+Complete Web App Shield setup for your domains with documentation and training.
 
 **MSP Partnership**  
-Standardized baseline deployment across your managed client accounts.
+Standardized Web App Shield deployment across your managed client accounts.
 
 **Consulting Business Services**  
 FEDLIN operates as an independent consulting firm, open to contract and C2C engagements for Cloudflare security architecture and compliance automation projects.
@@ -249,7 +249,7 @@ FEDLIN operates as an independent consulting firm, open to contract and C2C enga
 
 1. **Discovery & Scope:** Domains/subdomains, app traits, admin/API paths, traffic profile
 2. **Prepare Repos & OIDC:** We create deployment repo and pipeline
-3. **Implement Baseline:** Terraform apply in staging → validate → prod
+3. **Implement Web App Shield:** Terraform apply in staging → validate → prod
 4. **DNS Cutover:** Change window; monitor; rollback plan documented
 5. **Tuning + Evidence:** WAF/rate adjustments; deliver evidence pack
 
@@ -264,7 +264,7 @@ We roll out in monitor → block mode with a rollback plan and change window. Mo
 No. You can keep GoDaddy/other; we just point nameservers to Cloudflare.
 
 **Is WordPress covered?**  
-Yes. Platform-agnostic baseline. Optional WordPress Hardening Add-On includes plugin policy, updates cadence, and file permission checks.
+Yes. Platform-agnostic service. Optional WordPress Hardening Add-On includes plugin policy, updates cadence, and file permission checks.
 
 **HIPAA / BAA?**  
 We scope Cloudflare services to those appropriate for regulated workloads and document logging/retention paths. For Enterprise/BAA, we align features accordingly.
@@ -297,7 +297,7 @@ We scope Cloudflare services to those appropriate for regulated workloads and do
 
 ## 📋 Repository Note
 
-This repository describes the Cloudflare Security Baseline service and architecture approach. Deployment assets (Terraform modules, configuration templates, automation workflows) are provided as part of paid engagements.
+This repository describes the Web App Shield service and architecture approach. Deployment assets (Terraform modules, configuration templates, automation workflows) are provided as part of paid engagements.
 
 **FEDLIN LLC**  
 Security Solutions Architecture · Vulnerability Management · Compliance Automation  
