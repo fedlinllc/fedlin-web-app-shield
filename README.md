@@ -5,6 +5,10 @@
 [![ISO 27001](https://img.shields.io/badge/ISO%2027001-Mapped-1f77b4)](#compliance-coverage)
 [![SOC 2](https://img.shields.io/badge/SOC%202-Mapped-d62728)](#compliance-coverage)
 [![HIPAA](https://img.shields.io/badge/HIPAA-Mapped-9467bd)](#compliance-coverage)
+[![NIST](https://img.shields.io/badge/NIST-Mapped-2ca02c)](#compliance-coverage)
+[![PCI DSS](https://img.shields.io/badge/PCI%20DSS-Mapped-ff6b35)](#compliance-coverage)
+[![NERC CIP](https://img.shields.io/badge/NERC%20CIP-Mapped-4a90e2)](#compliance-coverage)
+[![FERC](https://img.shields.io/badge/FERC-Mapped-8b4513)](#compliance-coverage)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green)](#)
 
 **Edge WAF & Zero Trust for any web app stack**
@@ -22,7 +26,7 @@ Harden the boundary with Cloudflare: managed WAF, DDoS mitigation, bot/rate cont
 An opinionated, repeatable edge security baseline for websites and APIs on Cloudflare (WordPress, Next.js/Vercel, Shopify, custom apps, etc.). We implement protective controls at the edge, lock down the origin, and wire telemetry to your lake/SIEM—all as code, with a signed evidence pack at handoff.
 
 **Designed for:**
-- **Seed–Series B SaaS and SMBs** that need SOC 2 / ISO 27001 / HIPAA-aligned guardrails fast
+- **Seed–Series B SaaS and SMBs** that need SOC 2, ISO 27001, HIPAA, NIST (CSF/800-53), PCI DSS, NERC CIP, FERC, FedRAMP, GDPR, CMMC, and other industry framework-aligned guardrails fast
 - **Teams** that want edge security and Zero Trust without re-architecting the app
 - **Agencies/MSPs** needing a white-label, evidence-first baseline
 
@@ -114,6 +118,43 @@ docs/
 - §164.312(a)(2)(i): Access controls (Zero Trust, mTLS)
 - §164.312(b): Audit controls (Logpush, Cloudflare logs)
 - §164.312(e)(1): Transmission security (TLS 1.3, mTLS)
+
+**NIST 800-53 (Rev 5):**
+- AC-3: Access Enforcement (Zero Trust, mTLS)
+- AC-4: Information Flow Enforcement (WAF rules, rate limiting)
+- SC-7: Boundary Protection (Tunnel, security headers)
+- SC-8: Transmission Confidentiality and Integrity (TLS 1.3, mTLS)
+- SC-12: Cryptographic Key Management (TLS configuration)
+- AU-2: Audit Events (Logpush, telemetry)
+
+**PCI DSS:**
+- Requirement 1: Firewall configuration (WAF, Tunnel, mTLS)
+- Requirement 4: Encrypt transmission of cardholder data (TLS 1.3, mTLS)
+- Requirement 6: Develop and maintain secure systems (WAF rules, security headers)
+- Requirement 10: Track and monitor access (Logpush, audit logs)
+
+**NERC CIP:**
+- CIP-005: Electronic security perimeters (Tunnel, mTLS, WAF)
+- CIP-007: Systems security management (Logpush, monitoring, change control)
+- CIP-010: Configuration change management (Terraform, PR-driven changes)
+
+**FERC:**
+- Reliability standards alignment with NERC CIP requirements
+- Audit trail and evidence collection for regulatory reviews
+
+**FedRAMP:**
+- SC-7: Boundary Protection
+- SC-8: Transmission Confidentiality and Integrity
+- AU-2: Audit Events
+- CM-6: Configuration Settings
+
+**GDPR:**
+- Article 32: Security of processing (TLS, encryption, access controls, logging)
+- Article 33: Breach notification (WAF alerts, Logpush monitoring)
+
+**CMMC:**
+- Level 2: Intermediate cyber hygiene (WAF, TLS, access controls, logging)
+- Level 3: Good cyber hygiene (advanced monitoring, incident response, change control)
 
 > Results vary by application, but benchmarks (Mozilla Observatory, SSL Labs, SecurityHeaders) typically improve substantially after baseline.
 
