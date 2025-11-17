@@ -126,8 +126,9 @@ cd fedlin-web-app-shield-deployment
 - **TLS/SSL Hardening** - Minimum TLS 1.2, strict SSL mode enforcement
 - **Third-party service whitelisting** (supply chain security)
 - **Health Check Monitoring** - Automated Lighthouse audits for performance, SEO, accessibility, and best practices
-- **Error Detection & Remediation** - Ahrefs integration for identifying and fixing broken links, 404s, and SEO issues
-- **Email Protection** - SEO-friendly email obfuscation that doesn't create false-positive 404 errors
+- **Scheduled Automated Remediation** - Daily health checks with automatic fixes for auto-fixable issues
+- **Error Detection & Remediation** - Ahrefs integration (Enterprise API or free plan manual import) for identifying and fixing broken links, 404s, and SEO issues
+- **Email Protection** - SEO-friendly JavaScript-based email obfuscation that doesn't create false-positive 404 errors
 
 ### Phase 4: Optimization
 - CDN and caching configuration
@@ -276,6 +277,7 @@ Our implementation provides **defense-in-depth security** that protects against 
 - **Bot Protection** - Multi-layered bot detection and mitigation via Security Level and Browser Integrity Check
 - **Rate Limiting** - Basic DDoS and rate-based attack mitigation via Security Level configuration
 - **Health Check Monitoring** - Automated Lighthouse audits for performance, SEO, accessibility, and best practices
+- **Scheduled Automated Remediation** - Daily health checks via cron with automatic fixes for auto-fixable issues
 - **Error Detection & Remediation** - Ahrefs integration (Enterprise API or free plan manual import) for identifying and fixing broken links, 404s, and SEO issues
 - **SEO-Friendly Email Protection** - JavaScript-based email obfuscation that protects emails without creating false-positive 404 errors affecting SEO scores
 
