@@ -81,19 +81,6 @@ FEDLIN Web App Shield is a comprehensive service that implements **enterprise-gr
 4. **Approve & Execute** - We handle everything with zero downtime
 5. **Get Trained** - Complete documentation and ongoing support
 
-### For Developers
-
-Our open-source deployment toolkit is available for self-service deployments:
-
-```bash
-# Clone the deployment repository
-git clone https://github.com/fedlinllc/fedlin-web-app-shield-deployment.git
-cd fedlin-web-app-shield-deployment
-
-# Follow the quick start guide
-# See: https://github.com/fedlinllc/fedlin-web-app-shield-deployment
-```
-
 ---
 
 ## What's Included
