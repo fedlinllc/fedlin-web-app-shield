@@ -8,7 +8,7 @@
 - **Logging:** Logpush → S3/R2 (feeds VistaSec/SIEM)
 - **IaC Delivery:** Terraform modules, GitHub Actions OIDC (no static secrets), change-controlled PRs
 - **Evidence Bundle:** MANIFEST, before/after scans, console screenshots, plan/apply artifacts
-- **Runbooks:** Change control, DNS cutover, incident playbook
+- **Operational Guides:** Change control, DNS cutover, incident playbook
 
 ## Out of scope
 - **Zero Trust Access:** Optional add-on (per-path RBAC for admin panels/SSH/RDP via IdP)
